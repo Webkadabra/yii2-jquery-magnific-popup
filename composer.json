@@ -1,0 +1,23 @@
+{
+  "name": "ivan-chkv/yii2-jquery-magnific-popup",
+  "description": "Yii 2 jQuery Magnific Popup Asset",
+  "keywords": ["yii2", "jquery", "magnific", "popup", "lightbox"],
+  "homepage": "http://dimsemenov.com/plugins/magnific-popup/",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ivan Chistyakov",
+      "email": "ivan.chkv@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": ">=2.0.4",
+    "bower-asset/magnific-popup": "1.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "yii\\jquery\\magnificpopup\\": ""
+    }
+  }
+}
