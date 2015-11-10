@@ -3,5 +3,5 @@
 return [
     'id' => 'testapp',
     'basePath' => __DIR__,
-    'vendorPath' => __DIR__ . '/../vendor'
+    'vendorPath' => dirname(__DIR__) . DIRECTORY_SEPARATOR . 'vendor'
 ];
