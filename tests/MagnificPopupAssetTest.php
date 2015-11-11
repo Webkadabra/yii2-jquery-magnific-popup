@@ -1,6 +1,6 @@
 <?php
 
-namespace tests\jquery\magnificpopup;
+namespace yii\jquery\magnificpopup\tests;
 
 use yii\helpers\FileHelper;
 use yii\jquery\magnificpopup\MagnificPopupAsset;
@@ -10,7 +10,7 @@ use Yii;
 class MagnificPopupAssetTest extends TestCase
 {
 
-    public $appConfig = '@tests/jquery/magnificpopup/config.php';
+    public $appConfig = '@yii/jquery/magnificpopup/tests/config.php';
 
     /**
      * @inheritdoc
