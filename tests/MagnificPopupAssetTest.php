@@ -10,6 +10,9 @@ use Yii;
 class MagnificPopupAssetTest extends TestCase
 {
 
+    /**
+     * @inheritdoc
+     */
     public $appConfig = '@yii/jquery/magnificpopup/tests/config.php';
 
     /**
