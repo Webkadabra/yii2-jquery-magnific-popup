@@ -13,11 +13,10 @@
   ],
   "require": {
     "yiisoft/yii2": ">=2.0.4",
-    "bower-asset/magnific-popup": "1.0.*"
+    "bower-asset/magnific-popup": "1.1.*"
   },
   "require-dev": {
-    "yiisoft/yii2-codeception": "*",
-    "codeception/codeception": "*"
+    "ivan-chkv/yii2-phpunit": "2.*"
   },
   "autoload": {
     "psr-4": {
