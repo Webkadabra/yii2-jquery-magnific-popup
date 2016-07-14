@@ -1,7 +1,13 @@
 {
   "name": "ivan-chkv/yii2-jquery-magnific-popup",
   "description": "Yii 2 jQuery Magnific Popup Asset",
-  "keywords": ["yii2", "jquery", "magnific", "popup", "lightbox"],
+  "keywords": [
+    "yii2",
+    "jquery",
+    "magnific",
+    "popup",
+    "lightbox"
+  ],
   "homepage": "http://dimsemenov.com/plugins/magnific-popup/",
   "type": "yii2-extension",
   "license": "MIT",
